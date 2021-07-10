@@ -1,0 +1,30 @@
+@import "tailwindcss/base";
+@import "./base.css";
+
+@import "tailwindcss/components";
+@import "./components.css";
+
+@import "tailwindcss/utilities";
+@import "./utilities.css";
+
+@layer utilities {
+  @variants responsive {
+    .max-w-ch-xs {
+      max-width: 30ch;
+    }
+    .max-w-ch-sm {
+      max-width: 35ch;
+    }
+    .max-w-ch-md {
+      max-width: 40ch;
+    }
+    .max-w-ch-lg {
+      max-width: 45ch;
+    }
+  }
+}
+/* @layer base {
+  h1, h2, h3, h4, h5, h6 {
+		font-weight: 700;
+  }
+} */

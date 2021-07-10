@@ -1,0 +1,48 @@
+{
+  "name": "dream-host",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DreamHost",
+  "author": "Ian Hernandez",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.2.0",
+    "@heroicons/react": "^1.0.1",
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "@tailwindcss/forms": "^0.3.2",
+    "@tailwindcss/line-clamp": "^0.2.1",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.2.5",
+    "classnames": "^2.3.1",
+    "gatsby": "^3.6.0",
+    "gatsby-plugin-image": "^1.9.0",
+    "gatsby-plugin-manifest": "^3.5.0",
+    "gatsby-plugin-mdx": "^2.5.1",
+    "gatsby-plugin-postcss": "^4.5.0",
+    "gatsby-plugin-react-helmet": "^4.6.0",
+    "gatsby-plugin-sharp": "^3.9.0",
+    "gatsby-plugin-sitemap": "^4.1.0",
+    "gatsby-source-filesystem": "^3.9.0",
+    "gatsby-source-wordpress": "^5.6.0",
+    "gatsby-transformer-sharp": "^3.9.0",
+    "postcss": "^8.2.6",
+    "postcss-custom-properties": "^11.0.0",
+    "postcss-import": "^14.0.2",
+    "postcss-nested": "^5.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "tailwindcss": "^2.1.2",
+    "tailwindcss-owl": "^2.0.0"
+  }
+}
