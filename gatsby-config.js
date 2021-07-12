@@ -15,14 +15,6 @@ module.exports = {
     // },
     "gatsby-plugin-postcss",
     "gatsby-plugin-react-helmet",
-    {
-      resolve: 'gatsby-plugin-web-font-loader',
-      options: {
-        google: {
-          families: ['IBM Plex Mono', 'IBM Plex Sans', 'IBM Plex Serif']  
-        }
-      }
-    },
     "gatsby-plugin-sitemap",
     {
       resolve: `gatsby-plugin-manifest`,
