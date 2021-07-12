@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "DreamHost",
+    title: "Clark and Company",
+    siteUrl: "https://clarkandcompanydev.gatsbyjs.io"
   },
   plugins: [
     // {

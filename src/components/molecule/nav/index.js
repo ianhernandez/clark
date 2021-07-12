@@ -224,7 +224,7 @@ const Nav = ({theme}) => {
                                   </ul>
                                 </div>
                                 <div className="mt-6 text-sm font-medium">
-                                  <a href="http://localhost:8000/" className="text-blue-600 hover:text-blue-500">
+                                  <a href="http://clarkandcompanydev.gatsbyjs.io/" className="text-blue-600 hover:text-blue-500">
                                     {' '}
                                     View All Positions <span aria-hidden="true">&rarr;</span>
                                   </a>
@@ -341,7 +341,7 @@ const Nav = ({theme}) => {
                                   </ul>
                                 </div>
                                 <div className="mt-6 text-sm font-medium">
-                                  <a href="http://localhost:8000/" className="text-blue-600 hover:text-blue-500">
+                                  <a href="http://clarkandcompanydev.gatsbyjs.io/" className="text-blue-600 hover:text-blue-500">
                                     {' '}
                                     View all posts <span aria-hidden="true">&rarr;</span>
                                   </a>
@@ -354,11 +354,11 @@ const Nav = ({theme}) => {
                     )}
                   </Popover>
                   
-                  <a href="http://localhost:8000/" className="hidden text-base font-medium sm:inline-block md:hidden xl:inline-block">
+                  <a href="http://clarkandcompanydev.gatsbyjs.io/" className="hidden text-base font-medium sm:inline-block md:hidden xl:inline-block">
                     1-800-4-CLARK
                   </a>
                   <a
-                    href="http://localhost:8000/"
+                    href="http://clarkandcompanydev.gatsbyjs.io/"
                     className="inline-flex items-center justify-center px-3 py-3 text-base font-medium leading-none text-white bg-blue-600 rounded-md shadow-sm lg:px-5 lg:py-4 hover:bg-blue-700"
                   >
                     Get Started
@@ -423,7 +423,7 @@ const Nav = ({theme}) => {
                         ))}
                       </div>
                       <div className="mt-8 text-base">
-                        <a href="http://localhost:8000/" className="font-medium text-blue-600 hover:text-blue-500">
+                        <a href="http://clarkandcompanydev.gatsbyjs.io/" className="font-medium text-blue-600 hover:text-blue-500">
                           {' '}
                           View all products <span aria-hidden="true">&rarr;</span>
                         </a>
@@ -433,40 +433,40 @@ const Nav = ({theme}) => {
                 </div>
                 <div className="px-5 py-6">
                   <div className="grid grid-cols-2 gap-4">
-                    <a href="http://localhost:8000/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
+                    <a href="http://clarkandcompanydev.gatsbyjs.io/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
                       Pricing
                     </a>
 
-                    <a href="http://localhost:8000/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
+                    <a href="http://clarkandcompanydev.gatsbyjs.io/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
                       Docs
                     </a>
 
-                    <a href="http://localhost:8000/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
+                    <a href="http://clarkandcompanydev.gatsbyjs.io/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
                       Company
                     </a>
 
-                    <a href="http://localhost:8000/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
+                    <a href="http://clarkandcompanydev.gatsbyjs.io/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
                       Resources
                     </a>
 
-                    <a href="http://localhost:8000/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
+                    <a href="http://clarkandcompanydev.gatsbyjs.io/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
                       Blog
                     </a>
 
-                    <a href="http://localhost:8000/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
+                    <a href="http://clarkandcompanydev.gatsbyjs.io/" className="text-base font-medium text-gray-900 rounded-md hover:text-gray-700">
                       Contact Sales
                     </a>
                   </div>
                   <div className="mt-6">
                     <a
-                      href="http://localhost:8000/"
+                      href="http://clarkandcompanydev.gatsbyjs.io/"
                       className="flex items-center justify-center w-full px-4 py-2 text-base font-medium text-white bg-blue-600 border border-transparent rounded-md shadow-sm hover:bg-blue-700"
                     >
                       Sign up
                     </a>
                     <p className="mt-6 text-base font-medium text-center text-gray-500">
                       Existing customer?{' '}
-                      <a href="http://localhost:8000/" className="text-blue-600 hover:text-blue-500">
+                      <a href="http://clarkandcompanydev.gatsbyjs.io/" className="text-blue-600 hover:text-blue-500">
                         Sign in
                       </a>
                     </p>
